@@ -1,0 +1,15 @@
+Promises
+
+
+
+setInterval calls a function or evaluates an expression at specified intervals (milliseconds)
+clearInterval (stops the setInterval from calling the functionß)
+
+
+setTimeout calls a function after a speicifed number of seconds
+    if you need to repeat the execution, use setInterval
+
+clearTimeout  Prevent the function set with the setTimeout() to execute. also: 
+    The clearTimeout() method clears a timer set with the setTimeout() method.
+
+//if I  want to start a timer for 90 seconds and then have it stop and give an alert, what do I write?

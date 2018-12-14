@@ -4,10 +4,12 @@ Pseudo Code for Trivia Quiz
 Do the HTML, CSS Layout for the page.
 Find a Font for the FirstLetter 
 get code for Radial buttons
+https://www.w3schools.com/html/html_forms.asp
 
 *consider movie screen for random images.
 
 
+Obtain code for timer
 Create an Sample Object to hold the Questions and Answers
 Create array to hold the Objects for the questions
 Create a randomizer to select 10 of the array for questions.
